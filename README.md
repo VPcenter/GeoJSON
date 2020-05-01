@@ -1,4 +1,4 @@
-# ~~GeoJSON files~~ ![](images/map.png)
+# __GeoJSON files__ ![](images/map.png)
 
 
 На карте отражены полигоны районов Кировской области.
