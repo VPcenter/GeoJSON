@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "okato": "33222000000",
-        "name": "Лузский район"
+        "name": "Luza"
       },
       "geometry": {
         "type": "Polygon",
