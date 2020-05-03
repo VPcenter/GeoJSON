@@ -4,13 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "region code": "43",
-        "area": "169",
-        "name": "Kirov",
-        "cp": [
-          49.667,
-          58.604
-        ]
+        "okato": "33222000000",
+        "name": "Luza"
       },
       "geometry": {
         "type": "Polygon",
@@ -722,7 +717,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33232000000",
+        "name": "Podosinovets"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1813,7 +1811,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33229000000",
+        "name": "Oparino"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2120,7 +2121,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": 33212000000,
+        "name": "Darovskoy"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4607,7 +4611,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33224000000",
+        "name": "Murashi"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5214,7 +5221,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": 33249000000,
+        "name": "Yurya"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -6753,7 +6763,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33216000000",
+        "name": "Kicknur"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -7944,7 +7957,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33233000000",
+        "name": "Sunchursk"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
