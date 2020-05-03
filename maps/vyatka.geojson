@@ -719,7 +719,7 @@
       "type": "Feature",
       "properties": {
         "okato": "33232000000",
-        "name": "Podosinovets"
+        "name": "Подосиновский район"
       },
       "geometry": {
         "type": "Polygon",
@@ -1813,7 +1813,7 @@
       "type": "Feature",
       "properties": {
         "okato": "33229000000",
-        "name": "Oparino"
+        "name": "Опаринский район"
       },
       "geometry": {
         "type": "Polygon",
@@ -2123,7 +2123,7 @@
       "type": "Feature",
       "properties": {
         "okato": 33212000000,
-        "name": "Darovskoy"
+        "name": "Даровской район"
       },
       "geometry": {
         "type": "Polygon",
@@ -4613,7 +4613,7 @@
       "type": "Feature",
       "properties": {
         "okato": "33224000000",
-        "name": "Murashi"
+        "name": "Мурашинский район"
       },
       "geometry": {
         "type": "Polygon",
@@ -5223,7 +5223,7 @@
       "type": "Feature",
       "properties": {
         "okato": 33249000000,
-        "name": "Yurya"
+        "name": "Юрьянский район"
       },
       "geometry": {
         "type": "Polygon",
@@ -6765,7 +6765,7 @@
       "type": "Feature",
       "properties": {
         "okato": "33216000000",
-        "name": "Kicknur"
+        "name": "Кикнурский район"
       },
       "geometry": {
         "type": "Polygon",
@@ -7959,7 +7959,7 @@
       "type": "Feature",
       "properties": {
         "okato": "33233000000",
-        "name": "Sunchursk"
+        "name": "Санчурский район"
       },
       "geometry": {
         "type": "Polygon",
@@ -9175,7 +9175,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33207000000",
+        "name": "Верхнекамский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -10022,7 +10025,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33203000000",
+        "name": "Афанасьевский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11213,7 +11219,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33228000000",
+        "name": "Омутнинский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -11740,7 +11749,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33225000000",
+        "name": "Нагорский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -13031,7 +13043,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33205000000",
+        "name": "Белохолуницкий район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -15102,7 +15117,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33235000000",
+        "name": "Слободской район "
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -18161,7 +18179,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33247000000",
+        "name": "Шабалинский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -22744,7 +22765,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33234000000",
+        "name": "Свечинский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -24723,7 +24747,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33245000000",
+        "name": "Орловский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
