@@ -69415,7 +69415,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33238000000",
+        "name": "Тужинский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -75174,7 +75177,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33231000000",
+        "name": "Пижанский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -77065,7 +77071,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33226000000",
+        "name": "Немский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -83768,7 +83777,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33237000000",
+        "name": "Сунский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -87187,7 +87199,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33230000000",
+        "name": "Оричевский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -91214,7 +91229,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33221000000",
+        "name": "Лебяжский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -95073,7 +95091,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33202000000",
+        "name": "Арбажский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -100628,7 +100649,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33241000000",
+        "name": "Уржумский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -104391,7 +104415,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33208000000",
+        "name": "Верхошижемский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -106534,7 +106561,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33236000000",
+        "name": "Советский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -112997,7 +113027,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33227000000",
+        "name": "Нолинский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -117124,7 +117157,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33401000000",
+        "name": "Киров"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
