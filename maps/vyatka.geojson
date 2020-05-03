@@ -26601,7 +26601,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33219000000",
+        "name": "Котельничский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -33168,7 +33171,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33214000000",
+        "name": "Зуевский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -35987,7 +35993,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33210000000",
+        "name": "Вятскополянский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -37782,7 +37791,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33217000000",
+        "name": "Кильмезский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -40217,7 +40229,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33243000000",
+        "name": "Фаленский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -46416,7 +46431,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33240000000",
+        "name": "Унинский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -49939,7 +49957,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33206000000",
+        "name": "Богородский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -54694,7 +54715,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33220000000",
+        "name": "Куменский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -56285,7 +56309,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33218000000",
+        "name": "Кирово-Чепецкий район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -63092,7 +63119,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33223000000",
+        "name": "Малмыжский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -68111,7 +68141,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "okato": "33250000000",
+        "name": "Яранский район"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
